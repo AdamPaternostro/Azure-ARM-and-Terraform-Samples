@@ -6,4 +6,8 @@ Show how to use the deploy to Azure buttons
     <img src="http://azuredeploy.net/deploybutton.png"/> 
 </a>
 
-
+Download parameters.json
+Edit
+Click Deploy to Azure
+In the Azure portal, edit your parameters
+Upload your file
